@@ -1,4 +1,4 @@
-baseurl = "http://hxy.life"
+baseurl = "https://hxy.life"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "hxy.life"
